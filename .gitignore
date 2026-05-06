@@ -25,3 +25,11 @@ deberta_results/checkpoint-2964/training_args.bin
 
 pan25_genai_baselines/build/
 pan25_genai_baselines/*.egg-info/
+
+SUBMISSION.md
+custom_model_dokumentacia.md
+docker_baselines_tutorial.md
+ensemble_dokumentacia.md
+finalna_semestralna_dokumentacia.md
+models/README.md
+pan25_genai_baselines/README.md
