@@ -35,3 +35,25 @@ models/README.md
 pan25_genai_baselines/README.md
 
 generative-ai-authorship-verification-panclef-2026/
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.xmpdata
+*.abs
+pdfa.xmpi
+pan-notebook-paper-template/cc-by.pdf
+pan-notebook-paper-template/ceurart.cls
+pan-notebook-paper-template/chatonly-pan2026-notebook.fdb_latexmk
+pan-notebook-paper-template/chatonly-pan2026-notebook.fls
+pan-notebook-paper-template/chatonly-pan2026-notebook.pdf
+pan-notebook-paper-template/chatonly-pan2026-notebook.synctex.gz
+pan-notebook-paper-template/chatonly-pan2026-notebook.tex
+pan-notebook-paper-template/pan-notebook-template.odt
+pan-notebook-paper-template/pan-notebook-template.pdf
+pan-notebook-paper-template/pan-notebook-template.tex
+pan-notebook-paper-template/pan25-lit.bib
+pan-notebook-paper-template/participant-lit.bib
